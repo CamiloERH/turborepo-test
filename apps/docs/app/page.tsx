@@ -5,7 +5,7 @@ export default function Page() {
     <>
       <Login
         img={'/img_login.jpg'}
-        title="Login desde docs"
+        title="cambio desde docs"
       />
     </>
   );
